@@ -1,6 +1,6 @@
 # Employee Tracking
 
-An Application that will be used to track the employee details
+The Application to track the employees activities in the office using Gsuite, Figma, and GitHub APIs.
 
 ## Prerequisites
 Node version = 10.11.0
