@@ -1,4 +1,4 @@
-# Introduction
+# Employee Tracking
 
 An Application that will be used to track the employee details
 
@@ -9,4 +9,4 @@ npm install
 ```
 
 ## Prerequisites
-Node version= 10.11.0
+Node version = 10.11.0
